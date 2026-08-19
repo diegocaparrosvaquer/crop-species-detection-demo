@@ -239,7 +239,7 @@ models/stage2_best.pt
 
 ## 🖥️ Hardware
 
-The models were trained and evaluated using an NVIDIA L40S GPU.
+The models were trained and evaluated using an NVIDIA GPU.
 
 The demo can run on a GPU-enabled Google Colab runtime.
 
